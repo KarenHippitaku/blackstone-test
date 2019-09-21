@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9930ec40aa3b4653d9656d5baf695794",
+    "revision": "1668b60de5e430088a6c77d93619dd2d",
     "url": "/blackstone-test/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blackstone-test/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "ef6d2bde58a4eebe306b",
-    "url": "/blackstone-test/static/css/main.d167805f.chunk.css"
+    "revision": "f61b4fc9fe8d374c7169",
+    "url": "/blackstone-test/static/css/main.f83d3526.chunk.css"
   },
   {
     "revision": "d98af76b4ddd1b677a00",
     "url": "/blackstone-test/static/js/2.ce27226c.chunk.js"
   },
   {
-    "revision": "ef6d2bde58a4eebe306b",
+    "revision": "f61b4fc9fe8d374c7169",
     "url": "/blackstone-test/static/js/main.d40c4c12.chunk.js"
   },
   {
