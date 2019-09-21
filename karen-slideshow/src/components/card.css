@@ -1,5 +1,19 @@
-.card {
-  /* flex: 1; */
-  min-width: 50rem;
-  border-radius: 0.5rem;
+dl.card {
+  flex: 1;
+  /* min-width: 50rem; */
+  position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    min-height: 20rem;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 0.25rem solid rgba(0,0,0,.125);
+    border-radius: 1rem;
+}
+
+img {
+  width: auto;
+  max-height: 5rem;
 }
