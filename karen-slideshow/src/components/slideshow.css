@@ -1,17 +1,25 @@
 .card-slider-wrapper {
   display: flex;
+  flex-flow: row;
+  justify-content: center;
+  align-items: center;
   position: absolute;
-  /* .card {
-    flex: 1;
-  } */
 }
 
 .card-slider {
-  position: relative;
-  max-width: 60rem;
-  margin: 0 auto;
+  /* position: relative; */
+  /* max-width: 60rem; */
+  margin: 2rem;
+  content:'';
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  height: 25rem;
+  /* outline: 1rem solid #61DAFE; */
+  /* position: absolute; */
 
-  &:after {
+  /* &:after {
     content:'';
     display: block;
     width: 100%;
@@ -20,5 +28,5 @@
     position: absolute;
     top: 0;
     left: 0;
-  }
+  } */
 }
