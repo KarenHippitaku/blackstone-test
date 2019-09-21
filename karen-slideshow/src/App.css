@@ -1,19 +1,21 @@
 .App {
   text-align: center;
+  /* overflow: hidden;  */
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 5rem;
+  margin: 0.5rem
 }
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
+  min-height: 15rem;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
+  font-size: calc(1.5rem);
   color: white;
 }
 
