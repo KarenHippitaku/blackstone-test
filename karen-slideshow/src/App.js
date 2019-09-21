@@ -2,11 +2,53 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import Slideshow from './components/slideshow';
+// import { simpsons } from './data.json';
 
 class App extends Component {
   constructor () {
     super ();
+    this.state = {
+      simpsons: [
+        {id: 1,
+          url: "https://img.webme.com/pic/l/los-simpson-v2/new4_good.gif",
+        	name: "Dr. Nick Riviera",
+        	debut: "Jannuary 10th of 1991",
+        	episodes: "4",
+        	voice: "Hank Azaria"
+        },
+        {id: 2, 
+          url: "https://img.webme.com/pic/l/los-simpson-v2/new4_good.gif",
+          name: "Dr. Nick Riviera",
+          debut: "Jannuary 10th of 1991",
+          episodes: "4",
+          voice: "Hank Azaria"
+        },
+        {id: 3,
+          url: "https://img.webme.com/pic/l/los-simpson-v2/new4_good.gif",
+          name: "Dr. Nick Riviera",
+          debut: "Jannuary 10th of 1991",
+          episodes: "4",
+          voice: "Hank Azaria"
+        },
+        {id: 4,
+          url: "https://img.webme.com/pic/l/los-simpson-v2/new4_good.gif",
+          name: "Dr. Nick Riviera",
+          debut: "Jannuary 10th of 1991",
+          episodes: "4",
+          voice: "Hank Azaria"
+        },
+        {id: 5,
+          url: "https://img.webme.com/pic/l/los-simpson-v2/new4_good.gif",
+          name: "Dr. Nick Riviera",
+          debut: "Jannuary 10th of 1991",
+          episodes: "4",
+          voice: "Hank Azaria"
+        }
+      ]
+
+    }
   }
+
   render () {
 
     return (
@@ -20,7 +62,7 @@ class App extends Component {
       Keep learning
       </p>
       </header>
-      <Slideshow/>
+      <Slideshow slides={this.state.simpsons}/>
       </div>
     )
   }
