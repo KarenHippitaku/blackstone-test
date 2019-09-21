@@ -1,35 +1,35 @@
 {
 	"simpsons": {
 		"details": [{
-				"picture": "./images/dr-riviera.jpg",
+				"picture": "https://img.webme.com/pic/l/los-simpson-v2/new4_good.gif",
 				"name": "Dr. Nick Riviera",
 				"debut": "Jannuary 10th of 1991",
 				"episodes": "4",
 				"voice": "Hank Azaria"
 			},
 			{
-				"picture": "./images/dr-monroe.jpg",
+				"picture": "http://www.simpsonspark.com/images/persos/contributions/docteur-marvin-monroe-27402.jpg",
 				"name": "Dr. Marvin Monroe",
 				"debut": "January 28th of 1990",
 				"episodes": "3",
 				"voice": "Harry Shearer"
 			},
 			{
-				"picture": "./images/homer.jpg",
+				"picture": "https://ciudadmarketing.files.wordpress.com/2017/05/homero-pensando.png",
 				"name": "Homer J. Sipmson",
 				"debut": "April 19th of 1987",
 				"episodes": "200 +",
 				"voice": "Dan Castellaneta, John Ratzenberger"
 			},
 			{
-				"picture": "./images/matt-groening.jpg",
+				"picture": "https://www.die-simpsons.de/wp-content/uploads/2014/02/matt_groening1.jpg",
 				"name": "Matt Groening",
 				"debut": "Jannuary 10th of 1991",
 				"episodes": "1",
 				"voice": "Dan Castellaneta"
 			},
 			{
-				"picture": "./images/mr-burns.jpg",
+				"picture": "https://e00-elmundo.uecdn.es/elmundo/imagenes/2011/10/07/television/1318021052_0.jpg",
 				"name": "Montgomery Burns",
 				"debut": "December 17th of 1989",
 				"episodes": "100 +",
