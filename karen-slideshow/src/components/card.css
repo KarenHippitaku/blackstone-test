@@ -1,10 +1,9 @@
 dl.card {
   flex: 1;
-  /* min-width: 50rem; */
   position: relative;
     display: flex;
     flex-direction: column;
-    min-width: 0;
+    min-width: auto;
     min-height: 20rem;
     word-wrap: break-word;
     background-color: #fff;
