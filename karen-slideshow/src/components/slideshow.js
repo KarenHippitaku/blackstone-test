@@ -26,11 +26,14 @@ class Slideshow extends Component {
     });
 
     return (
-      <div>
-      {details}
+      <div className="card-slider ">
+        <div className="card-slider-wrapper"
+          style={{'transform': `translateX(-${details.index*(100/details.length)}%)`}}>
+          {details}
+        </div>
       </div>
     )
   }
 }
 
-export default Slideshow
+export default Slideshow;
