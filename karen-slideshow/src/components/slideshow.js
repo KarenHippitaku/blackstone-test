@@ -12,24 +12,27 @@ class Slideshow extends Component {
   };
 
   render() {
-    const details = this.state.simpsons.details.map((detail, i) => {
-      return (
-        <Card
-          key={i}
-          picture={detail.picture}
-          name={detail.name}
-          debut={detail.debut}
-          episodes={detail.episodes}
-          voice={detail.voice}
-        />
-      )
-    });
+    // const details = this.state.simpsons.details.map((detail, i) => {
+    //   return (
+    //     <Card
+    //       key={i}
+    //       picture={detail.picture}
+    //       name={detail.name}
+    //       debut={detail.debut}
+    //       episodes={detail.episodes}
+    //       voice={detail.voice}
+    //     />
+    //   )
+    // });
+    let slide = this.props.slides.map((slide) => {
+      return <Card key={slide.id} url={slide.url} name={slide.name}
+      debut={slide.debut} episodes={slide.episodes} voice={slide.voice}/>
+    })
 
     return (
       <div className="card-slider ">
-        <div className="card-slider-wrapper"
-          style={{'transform': `translateX(-${details.index*(100/details.length)}%)`}}>
-          {details}
+        <div className="card-slider-wrapper">
+          {slide}
         </div>
       </div>
     )
