@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/blackstone-test/static/css/main.86aac85f.chunk.css",
+    "main.js": "/blackstone-test/static/js/main.70e8c880.chunk.js",
+    "main.js.map": "/blackstone-test/static/js/main.70e8c880.chunk.js.map",
+    "runtime-main.js": "/blackstone-test/static/js/runtime-main.0b32ca9b.js",
+    "runtime-main.js.map": "/blackstone-test/static/js/runtime-main.0b32ca9b.js.map",
+    "static/css/2.266e55a5.chunk.css": "/blackstone-test/static/css/2.266e55a5.chunk.css",
+    "static/js/2.ce27226c.chunk.js": "/blackstone-test/static/js/2.ce27226c.chunk.js",
+    "static/js/2.ce27226c.chunk.js.map": "/blackstone-test/static/js/2.ce27226c.chunk.js.map",
+    "index.html": "/blackstone-test/index.html",
+    "precache-manifest.44c8b859736f320b0d5dbb3c7aa0394d.js": "/blackstone-test/precache-manifest.44c8b859736f320b0d5dbb3c7aa0394d.js",
+    "service-worker.js": "/blackstone-test/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/blackstone-test/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.86aac85f.chunk.css.map": "/blackstone-test/static/css/main.86aac85f.chunk.css.map",
+    "static/media/logo.svg": "/blackstone-test/static/media/logo.25bf045c.svg"
+  }
+}
