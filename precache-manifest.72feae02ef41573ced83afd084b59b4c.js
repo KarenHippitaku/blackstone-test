@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a7aa95e9e3d92aabe48b099e8cf29c7",
+    "revision": "fab0a2f138f5cf3eaced41e76496e7de",
     "url": "/blackstone-test/index.html"
   },
   {
-    "revision": "a846c9789535a501ac6d",
+    "revision": "67f7aad5157031f1a8e5",
     "url": "/blackstone-test/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "e5969d4c83464746127c",
-    "url": "/blackstone-test/static/css/main.f83d3526.chunk.css"
+    "revision": "5ae8a78268cf4dec4b2a",
+    "url": "/blackstone-test/static/css/main.80450ef3.chunk.css"
   },
   {
-    "revision": "a846c9789535a501ac6d",
-    "url": "/blackstone-test/static/js/2.bfde5f9b.chunk.js"
+    "revision": "67f7aad5157031f1a8e5",
+    "url": "/blackstone-test/static/js/2.f6b67051.chunk.js"
   },
   {
-    "revision": "e5969d4c83464746127c",
-    "url": "/blackstone-test/static/js/main.5131e77e.chunk.js"
+    "revision": "5ae8a78268cf4dec4b2a",
+    "url": "/blackstone-test/static/js/main.0e7547c6.chunk.js"
   },
   {
     "revision": "e19ee32cf11bffdbd905",
